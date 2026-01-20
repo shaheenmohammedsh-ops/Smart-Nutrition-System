@@ -132,27 +132,23 @@ $$f(\text{Schedule}) = -\left[\frac{|B_t - B_a|}{B_t} \times 0.5 + \frac{|C_t - 
 
 ### Dashboard Interface
 
-**Configuration Interface**
-
-![Configuration Sidebar](images/1.png)
-
 **Results Metrics & Performance**
 
 ![Metrics Cards](images/2.png)
 
-**7-Day Meal Schedule**
+**Daily Cost Analysis**
 
 ![Meal Schedule](images/3.png)
 
-**Daily Cost Analysis**
+**Export**
 
 ![Cost Chart](images/4.png)
 
-**Budget Allocation**
+**Export as Pdf**
 
 ![Budget Split](images/5.png)
 
-**Optimization Convergence**
+**Export as Exel**
 
 ![Convergence](images/6.png)
 
