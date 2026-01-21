@@ -277,12 +277,11 @@ Where:
 
 | Component | Description | Visual |
 |-----------|-------------|--------|
-| **Configuration Sidebar** | User input controls | ![Configuration](images/1.png) |
-| **Results Metrics** | Performance indicators | ![Metrics](images/2.png) |
-| **Meal Schedule** | 7-day plan display | ![Schedule](images/3.png) |
-| **Cost Analysis** | Daily cost breakdown | ![Cost Chart](images/4.png) |
-| **Budget Allocation** | Expense distribution | ![Budget](images/5.png) |
-| **Convergence Curve** | Optimization progress | ![Convergence](images/6.png) |
+| **Main Dashboard** | Complete optimization results with dashboard | ![Main Dashboard](images/1.png) |
+| **Results Analysis Charts** | Comprehensive result analysis graphs | ![Analysis Charts](images/2.png) |
+| **Export Screen** | Primary export interface | ![Export Screen](images/3.png) |
+| **PDF Export** | Generated PDF report format | ![PDF Export](images/4.png) |
+| **Excel Export** | Generated Excel spreadsheet format | ![Excel Export](images/5.png) |
 
 </div>
 
