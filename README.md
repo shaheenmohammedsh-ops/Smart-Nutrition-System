@@ -277,11 +277,11 @@ Where:
 
 | Component | Description | Visual |
 |-----------|-------------|--------|
-| **Main Dashboard** | Complete optimization results with dashboard | ![Main Dashboard](images/1.png) |
-| **Results Analysis Charts** | Comprehensive result analysis graphs | ![Analysis Charts](images/2.png) |
-| **Export Screen** | Primary export interface | ![Export Screen](images/3.png) |
-| **PDF Export** | Generated PDF report format | ![PDF Export](images/4.png) |
-| **Excel Export** | Generated Excel spreadsheet format | ![Excel Export](images/5.png) |
+| **Main Dashboard** | Complete optimization results with dashboard | ![Main Dashboard](images/1.1.png) |
+| **Results Analysis Charts** | Comprehensive result analysis graphs | ![Analysis Charts](images/2.1.png) |
+| **Export Screen** | Primary export interface | ![Export Screen](images/3.1.png) |
+| **PDF Export** | Generated PDF report format | ![PDF Export](images/4.1.png) |
+| **Excel Export** | Generated Excel spreadsheet format | ![Excel Export](images/5.1.png) |
 
 </div>
 
@@ -530,3 +530,4 @@ Software provided "AS IS" without warranty of any kind.
 **Star this repository if you find it useful!**
 
 </div>
+
