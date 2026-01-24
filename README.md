@@ -504,12 +504,14 @@ This project is licensed under the MIT License. See [LICENSE](./LICENSE) for det
 **Project Status:** Active Development  
 **Last Updated:** January 2026  
 **Version:** 1.0.0  
-**Documentation:** Comprehensive  
-
+**Documentation:** Comprehensive
+**General Inquinies: shaheenmohammedsh@gmail.com
+لأ
 ---
 
 **Star this repository if you find it useful!**
 
 </div>
+
 
 
