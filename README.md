@@ -467,7 +467,7 @@ def calculate_fitness(schedule, budget_target, calorie_target):
 
 ---
 
-## [LICENSE] Terms & Conditions
+## LICENSE
 
 This project is licensed under the MIT License. See [LICENSE](./LICENSE.md) for details.
 
@@ -513,6 +513,7 @@ This project is licensed under the MIT License. See [LICENSE](./LICENSE.md) for 
 **Star this repository if you find it useful!**
 
 </div>
+
 
 
 
